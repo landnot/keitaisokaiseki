@@ -1,0 +1,18 @@
+17
+start det
+start noun
+det adj
+det noun
+adj noun
+noun prep
+prep noun
+prep adj
+prep det
+noun verb
+verb adv
+verb det
+adv prep
+noun adv
+adv noun
+verb end
+noun end

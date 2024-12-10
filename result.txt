@@ -1,0 +1,37 @@
+      
+|     
+start 
+
+      I     
+|     |     
+start noun  
+
+      I     saw   
+|     |     |     
+start noun  verb  
+
+      I     saw   a     
+|     |     |     |     
+start noun  verb  det   
+
+      I     saw   a     girl  
+|     |     |     |     |     
+start noun  verb  det   noun  
+
+      I     saw   a     girl  with  
+|     |     |     |     |     |     
+start noun  verb  det   noun  prep  
+
+      I     saw   a     girl  with  a     
+|     |     |     |     |     |     |     
+start noun  verb  det   noun  prep  det   
+
+      I     saw   a     girl  with  a     telescope  
+|     |     |     |     |     |     |     |          
+start noun  verb  det   noun  prep  det   noun       
+
+      I     saw   a     girl  with  a     telescope  .     
+|     |     |     |     |     |     |     |          |     
+start noun  verb  det   noun  prep  det   noun       end   
+
+correct sentence
